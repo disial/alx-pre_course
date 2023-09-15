@@ -1,1 +1,1 @@
-My first readme
+## Basic bash and git commands
